@@ -31,7 +31,7 @@ In order to have a movie approved by the admins, a movie must meet this criteria
 
 Deployed Application through Heroku: https://bechdelbillboard.herokuapp.com/
 
-Github Repository: https://github.com/Franciscorosado09/BechdelBillboard
+Github Repository: https://github.com/rwanke14/BechdelBillboard
 
 <br>
 
